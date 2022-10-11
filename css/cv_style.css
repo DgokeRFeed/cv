@@ -1,10 +1,15 @@
 @import url(https://fonts.googleapis.com/css2?family=Rubik:wght@400&display=swap);
 
+html {
+  box-sizing: border-box;
+}
+
 body {
   background-color: #dddddd;
   font-family: "Rubik", "Roboto", sans-serif;
   font-size: 20px;
   margin-bottom: 50px;
+
 }
 
 .buffer-top {
